@@ -16,6 +16,7 @@ bin/
 gen/
 
 # Ignore gradle files
+temp_auto_push.bat
 .gradle/
 build/
 
@@ -33,4 +34,5 @@ proguard-project.txt
 
 # Android Studio/IDEA
 *.iml
-.idea
+.idea.gitignore
+branch_structure.json
